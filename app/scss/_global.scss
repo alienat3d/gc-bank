@@ -1,0 +1,24 @@
+// html,
+// body {
+//   height: 100%;
+// }
+
+body {
+  @extend %avenir-500;
+  font-size: 26px;
+  line-height: 29px;
+  color: $default;
+}
+
+// a {
+//   @extend %;
+//   font-size: px;
+//   line-height: px;
+//   color: $default;
+// }
+
+.container {
+  max-width: 1430px;
+  margin: 0 auto;
+  padding: 0 15px;
+}

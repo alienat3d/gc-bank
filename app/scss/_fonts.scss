@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "AvenirNextCyr-Medium";
+  font-weight: 500;
+  font-style: normal;
+  src: local("AvenirNextCyr-Medium"),
+    url('../fonts/AvenirNextCyr-Medium.woff2') format("woff2"),
+    url('../fonts/AvenirNextCyr-Medium.woff') format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AvenirNextCyr-Bold";
+  font-weight: 700;
+  font-style: normal;
+  src: local("AvenirNextCyr-Bold"),
+    url('../fonts/AvenirNextCyr-Bold.woff2') format("woff2"),
+    url('../fonts/AvenirNextCyr-Bold.woff') format("woff");
+  font-display: swap;
+}
+// === *** ===
